@@ -1,0 +1,78 @@
+body {
+    margin: 0;
+    padding: 0;
+}
+
+.profile-picture {
+    display: block;
+    margin: auto;
+    margin-top: 30px;
+    border-radius: 10px;
+    text-align: center;
+}
+
+.header-container {
+    background-color: #29335c;
+    overflow: hidden;
+}
+
+.about-me-container {
+    background-color: #f0cea0;
+    overflow: hidden;
+}
+.profile-title {
+    color: white;
+    text-align: center;
+}
+
+.about-me-header {
+    text-align: center;
+}
+
+.about-me-information {
+    text-align: center;
+    width: 600px;
+    margin: 20px auto;
+}
+
+.subtitle {
+    width: 400px;
+    text-align: center;
+    color: white;
+    margin: 20px auto;
+}
+
+.details-container {
+    background-color: #f3a712;
+    overflow: hidden;
+}
+
+.card-container {
+    width: 400px;
+    background-color: #29335c;
+    margin: 10px auto;
+    padding: 5px;
+    border-radius: 3px;
+    box-shadow: 1px 1px #534d41;
+    color: white;
+}
+
+.card-container h2 {
+    text-align: center;
+}
+
+.card-header {
+    margin: 5px 0 5px 0;
+}
+
+.footer-container {
+    background-color: #29335c;
+    overflow: hidden;
+    text-align: center;
+    color: white;
+    padding-bottom: 20px;
+}
+
+.footer-container a {
+    color: white;
+}

@@ -1,0 +1,29 @@
+body {
+    margin: 0;
+}
+
+.portfolio-background {
+    background-color: #f3a712;
+    padding: 20px;
+}
+
+.portfolio-card {
+    border: 1px solid black;
+    background-color: #29335c;
+    color: white;
+    text-align: center;
+    width: 50%;
+    margin: 0 auto; 
+    border-radius: 5px;
+}
+
+.portfolio-container {
+    display: flex;
+    justify-content: space-around;
+}
+
+.portfolio-item {
+    width: 33%;
+    border: 1px solid black;
+    padding: 10px;
+}
